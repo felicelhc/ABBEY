@@ -16,6 +16,7 @@ body {
 
 .other-page-element:hover {
   color: #cdaeac;
+  transition: all 200ms ease-in-out;
 }
 
 .heading {
@@ -54,6 +55,7 @@ p {
   background: #003837;
   border: 1px solid #003837;
   color: #fff;
+  transition: all 300ms ease-in-out;
 }
 
 footer {
@@ -74,6 +76,11 @@ footer {
 }
 
 .link-element {
-  color: #cdaeac;
+  color: #a8bcae;
   text-decoration: none;
+}
+
+.link-element:hover {
+  color: #cdaeac;
+  transition: all 200ms ease-in-out;
 }
