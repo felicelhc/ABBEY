@@ -37,6 +37,16 @@ p {
   font-size: 20px;
 }
 
+.events-heading {
+  color: #a52816;
+}
+
+hr {
+  background: #a8bcae;
+  border: solid 2px #478378;
+  margin: 30px auto;
+}
+
 .site-button {
   display: flex;
   justify-content: center;
